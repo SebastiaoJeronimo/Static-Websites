@@ -1,3 +1,3 @@
 # Static-Websites
-Repository for storing my static websites and learning HTML and CSS
+Repository for storing my static websites using only HTML and CSS to learn  
 Update do Bear website 14
