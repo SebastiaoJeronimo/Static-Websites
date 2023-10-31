@@ -1,3 +1,3 @@
-# Front-End-Engineer
-Repository for Front End development learning
+# Static-Websites
+Repository for storing my static websites and learning HTML and CSS
 Update do Bear website 14
